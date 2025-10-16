@@ -1,5 +1,5 @@
 ---
-title: My First Git Repo
+title: My First Git Repo (conflict_test branch)
 author: Peter Song
 output: github_document
 ---

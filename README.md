@@ -1,0 +1,24 @@
+My First Git Repo (on the main branch)
+================
+Peter Song
+
+# My First Commit
+
+Here is some text that makes up my first commit in my first repo. I’m
+now adding a new line to this first commit section of the README.
+
+# My Second Commit
+
+Here is more text that will be added in my second commit.
+
+# My Third Commit
+
+Here is some final text for my third commit.
+
+# My test branch
+
+Here is some text that I will commit to the test branch.
+
+# My new_test branch
+
+Here is some text that I will commit to the new_test branch.

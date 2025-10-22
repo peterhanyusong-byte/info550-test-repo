@@ -8,6 +8,8 @@ Here is some text that makes up my first commit in my first repo. I’m
 now adding a new line to this first commit section of the README. text
 for another commit. test for yet another commit.
 
+**Here is some text on the test branch.**
+
 # My Second Commit
 
 Here is more text that will be added in my second commit.

@@ -5,7 +5,8 @@ Peter Song
 # My First Commit
 
 Here is some text that makes up my first commit in my first repo. I’m
-now adding a new line to this first commit section of the README.
+now adding a new line to this first commit section of the README. text
+for another commit. test for yet another commit.
 
 # My Second Commit
 
